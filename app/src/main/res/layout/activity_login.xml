@@ -88,7 +88,6 @@
         android:id="@+id/txt_gotoregister"
         android:layout_width="350dp"
         android:layout_height="45dp"
-        android:drawableTint="#C5B6B6"
         android:text="don't have an account? click to register"
         android:textColor="#F2F4FA"
         android:textSize="20sp"
